@@ -1,0 +1,28 @@
+{
+  "topic": "人工智能",
+  "timestamp": "2026-04-20 06:07:38",
+  "results": {
+    "bing": [
+      {
+        "platform": "必应",
+        "topic": "人工智能",
+        "title": "必应搜索结果: 人工智能",
+        "url": "https://www.bing.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&first=1&count=3",
+        "snippet": "请查看搜索链接获取详细内容",
+        "timestamp": "2026-04-20 06:07:38"
+      }
+    ],
+    "36kr": [],
+    "baidu": [
+      {
+        "platform": "百度",
+        "topic": "人工智能",
+        "title": "百度搜索结果: 人工智能",
+        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&rn=3",
+        "snippet": "请查看搜索链接获取详细内容",
+        "timestamp": "2026-04-20 06:07:41"
+      }
+    ],
+    "zhihu": []
+  }
+}
